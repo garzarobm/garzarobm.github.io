@@ -1,6 +1,7 @@
 # Markdown Guide
 
 [![Build Status](https://github.com/mattcone/markdown-guide/workflows/tests/badge.svg?branch=master)](https://github.com/mattcone/markdown-guide/actions)
+[![tests](https://github.com/mattcone/markdown-guide/actions/workflows/tests.yml/badge.svg?branch=master&event=check_run)](https://github.com/mattcone/markdown-guide/actions/workflows/tests.yml)
 
 *[The Markdown Guide](https://www.markdownguide.org)* is a comprehensive Markdown reference designed for both novices and experts. It was born out of frustration with existing Markdown references that are incomplete and inadequate.
 
